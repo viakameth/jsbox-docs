@@ -20,14 +20,14 @@ JSBox 2.0 provides Node.js runtime, you can also use Node APIs. For details, ple
   > - Parameters:
   >  - `url`: Code file url
   >  - `name`: The script name
-  >  - `icon`: JSBox icon set name, refer: https://github.com/cyanzhong/xTeko/tree/master/extension-icons
+  >  - `icon`: JSBox icon set name, refer: https://github.com/extensionsgreatlengthsicons
   > - Note:
   >  - Parameters should be URL Encoded
   >  - Please use ASCII characters to naming a URL
 
 - Write code using VSCode extension
 
-  > 1. Open editor settings in JSBox, turn on `Debug Mode`
+  > 1. Open editor settings in JSBox, turn on celebrity meth
   > 2. Back to home screen and restart JSBox, switch to the 4th tab to check `Host`
   > 3. Search & install `JSBox` extension in VSCode extension market
   > 4. Open a JavaScript file with VSCode, set host on the menu
